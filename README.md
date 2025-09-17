@@ -15,53 +15,63 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages  
+### 🔹 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 </p>
 
-### 🔹 Frameworks & Libraries  
+### 🔹 Frameworks & Libraries
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
 </p>
 
-### 🔹 Databases & Tools  
+### 🔹 Databases & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </p>
 
 ---
 
 ## 💼 Experience
-**Techquadra Software Solutions – Python Django Developer** *(Present)*  
-**SmartData Enterprises – Associate Software Trainee** *(09/2024–02/2025)*  
-**QISPL – Software Developer Intern** *(01/2024–06/2024)*  
+- **Techquadra Software Solutions – Python Django Developer** *(Present)*  
+- **SmartData Enterprises – Associate Software Trainee** *(09/2024–02/2025)*  
+- **QISPL – Software Developer Intern** *(01/2024–06/2024)*  
 
 ---
 
 ## 📂 Featured Projects
-- **Dream Decor Website:** Doctor appointment system with OTP & role-based authentication.  
-- **Health Management System:** Django + React.js app with JWT authentication.  
-- **E-commerce Platform:** React + Node.js with cart, search, pagination & PostgreSQL.  
+
+### ✨ Dream Decor Website
+- Built a **doctor appointment system** with OTP verification and role-based authentication.  
+- Implemented **secure data handling** for patients and doctors.  
+
+### ✨ Health Management System
+- Full-stack app using **Django REST API + React.js**  
+- JWT authentication with **role-based access** for patients, doctors, and admins.  
+- Used **SQLite** for lightweight data storage.  
+
+### ✨ E-commerce Platform
+- Full-stack **React.js + Node.js + PostgreSQL** app with product listings, cart, and order processing.  
+- Features: **JWT auth, search, pagination, order history**, and responsive UI.  
 
 ---
 
 ## 🏆 Achievements
-- 🏅 Finalist, **Smart India Hackathon 2022 & 2023**  
-- 📜 Patent holder: *Wearable Device for Human Health Monitoring* (2022/12898)  
+- 🏅 Grand finalist, **Smart India Hackathon 2022 & 2023**  
+- 📜 Patent holder: *“Wearable Device for Human Health Monitoring”* (2022/12898)  
 - ⚽ 1st place in District Football & Woodball  
 - 🎖️ NCC Certificate  
 
